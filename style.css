@@ -6,7 +6,7 @@ button {cursor: pointer;}
 /* header*/
 .header-page {}
 .nav-page {}
-.logo { font-family: "Raleway", sans-serif;
+.logo-style { font-family: "Raleway", sans-serif;
     font-weight: 700;
     font-size: 18px;
     line-height: 1.17;
@@ -14,7 +14,7 @@ button {cursor: pointer;}
     text-transform: uppercase;
     color: #2e2f42;}
 
-.logo-style {font-family: "Raleway", sans-serif;
+.logo {font-family: "Raleway", sans-serif;
     font-weight: 700;
     font-size: 18px;
     line-height: 1.17;
